@@ -1,0 +1,11 @@
+Files info : 
+
+index.php 	  : This file contain our form like login, registration etc.
+				We send our form data from this file.
+
+config.php    : This file contain our database connection. Here we use mysql DB
+
+db_action.php : Basically this file is our sever side file here we write our 
+				mysql queries
+
+dashboard.php : This file is our main page when user login successfuly then user will redirect 					on this page
